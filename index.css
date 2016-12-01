@@ -8,10 +8,6 @@ body{
      margin-bottom: 15px; 
 }
     
-#first-prg{
-    margin-bottom: 0;
-}
-
 
 #par-to-chng{
     height: 100px;
@@ -27,24 +23,7 @@ body{
     
 }
 
-#tries-left{
-    float:right;
-    position: relative;
-    left: 10px;
-    font-size: 19px;
-    font-family:monospace;
-    bottom:10px;
 
-}
-.tooltip:hover .tooltip-text{
-    visibility: visible;
-}
-
-
-.hide{
-    visibility: hidden;
-
-}
 
 #guesses-left{
     font-size:20px;
